@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">InStock</string>
+    <string name="digite_seu_e_mail">Digite seu E-mail:</string>
+    <string name="esqueci_a_minha_senha">Esqueci a minha senha</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="entrar">Entrar</string>
+    <string name="lembrar_senha">Lembrar senha</string>
+    <string name="digite_a_sua_senha">Digite a sua senha:</string>
+    <string name="login">Login</string>
+    <string name="produtos">Produtos</string>
+    <string name="salvar">Salvar</string>
+    <string name="adicionar_imagem">Adicionar Imagem</string>
+    <string name="descri_o">Descrição:</string>
+    <string name="produto">Produto</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="digite_seu_nome">Digite seu nome</string>
+    <string name="digite_seu_e_mail_">Digite seu E-mail:</string>
+    <string name="senha">Senha:</string>
+    <string name="confirme_sua_senha">Confirme sua senha:</string>
+    <string name="entrar_">Entrar</string>
+    <string name="j_possuo_cadastro">Já possuo cadastro</string>
+    <string name="todo">TODO</string>
+</resources>
